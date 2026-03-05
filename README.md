@@ -1,4 +1,4 @@
-# Submitify CF (Firefox Version)
+# Submitiy CF (Firefox Version)
 
 This extension restores the textarea-based submission feature on Codeforces.
 
